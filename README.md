@@ -4,7 +4,7 @@ An AI-powered web application that analyzes resumes and compares them with targe
 
 ## 🚀 Live Demo
 
-https://ai-resume-analyzer-ruddy-gamma.vercel.app
+https://ai-resume-analyser-ruddy-gamma.vercel.app/
 
 ## ✨ Features
 
